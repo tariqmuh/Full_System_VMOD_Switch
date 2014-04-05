@@ -1,0 +1,14 @@
+set -tmpdir C:\Users\Admin\Documents\GitHub\Full_System_cam_mod\synthesis\xst_temp_dir\
+run
+-opt_mode speed
+-netlist_hierarchy as_optimized
+-opt_level 1
+-p xc6slx45csg324-3
+-top system_hdmi_out_0_wrapper
+-ifmt MIXED
+-ifn system_hdmi_out_0_wrapper_xst.prj
+-ofn ../implementation/system_hdmi_out_0_wrapper.ngc
+-hierarchy_separator /
+-iobuf NO
+-sd {../implementation}
+-vlgincdir {"C:\Users\Admin\Documents\GitHub\Full_System_cam_mod\pcores\" "C:\Users\Admin\Documents\GitHub\2010_09_10_Interrupt_Test\pcores\" "C:\Users\Admin\Documents\GitHub\Full_System\pcores\" "C:\Users\Admin\Documents\GitHub\Full_System_Mult_Buses\pcores\" "C:\Users\Admin\Documents\GitHub\Test_Intr\pcores\" "C:\Users\Admin\Documents\GitHub\Vmod_in_HDMI_100MHz\pcores\" "C:\Xilinx\14.2\ISE_DS\edk_user_repository\MyProcessorIPLib\pcores\" "C:\Xilinx\14.2\ISE_DS\EDK\hw\XilinxBFMinterface\pcores\" "C:\Xilinx\14.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\" }

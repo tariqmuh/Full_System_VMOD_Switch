@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\GitHub\Full_System_cam_mod\implementation\system.ngc 1396723044
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_load_bram_0_wrapper.ngc 1396722930
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_rs232_uart_1_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_vmodcam_0_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_proc_sys_reset_0_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_pll_module_0_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_clock_generator_0_wrapper.ngc 1396722876
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_disparity_out_0_wrapper.ngc 1396722919
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_ilmb_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_dlmb_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_mcb_ddr2_wrapper.ngc 1396722908
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_axi4lite_0_wrapper.ngc 1396722886
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_axi4_0_wrapper.ngc 1396722898
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_hdmi_out_0_wrapper.ngc 1396722585
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_debug_module_wrapper.ngc 1396722484
+C:/Users/Admin/Documents/GitHub/Full_System_cam_mod/implementation/system_microblaze_0_bram_block_wrapper.ngc 1396722484
+OK
